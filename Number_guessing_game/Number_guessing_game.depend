@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704882991 source:c:\users\soumaïla niampa\onedrive - ecole centrale casablanca\bureau\stage\codesoft\number_guessing_game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
